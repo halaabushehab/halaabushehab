@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hala Abu Shehab</h1>
-<h3 align="center">A Versatile & Detail-Oriented Full Stack Developer</h3>
+<h3 align="center"> Full Stack Developer</h3>
 
 ---
 
