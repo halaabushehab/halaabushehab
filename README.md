@@ -61,13 +61,6 @@ Tech Stack: React.js, Redux, Tailwind CSS, MySQL, PostgreSQL
 
 ---
 
-### 📊 GitHub Stats
-
-![Hala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
 ### 📬 Contact Me
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/hala-abu-shehab-/)  
